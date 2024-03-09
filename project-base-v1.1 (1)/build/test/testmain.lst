@@ -1,0 +1,16 @@
+GAS LISTING /tmp/ccwN3VqO.s 			page 1
+
+
+   1              		.file	"testmain.cpp"
+   2              		.option pic
+   3              		.option norelax
+   4              		.text
+   5              	.Ltext0:
+   6              	.Letext0:
+GAS LISTING /tmp/ccwN3VqO.s 			page 2
+
+
+DEFINED SYMBOLS
+                            *ABS*:0000000000000000 testmain.cpp
+
+NO UNDEFINED SYMBOLS
